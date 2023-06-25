@@ -1,0 +1,11 @@
+.counter {
+    width: 200px;
+    height: 130px;
+    background: rgb(222, 220, 220);
+    border-radius: 4px;
+}
+
+.voters {
+    cursor: pointer;
+    user-select: none;
+}

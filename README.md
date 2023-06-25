@@ -1,3 +1,9 @@
+# Project description
+Simple up vote and down vote the article using angular 9
+- using behavior subject to store articles
+- reactive programming with rxjs
+- https://angular-upvote.vercel.app/
+
 # AngularUpvote
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
