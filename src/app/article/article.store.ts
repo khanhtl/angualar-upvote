@@ -9,7 +9,7 @@ export class ArticleStore {
   articles$ = new BehaviorSubject<Article[]>(
     [
       new Article('CodergenZ', 'CodergenZ', 'https://codergenz.net', 10),
-      new Article('Angular', 'Angular', 'htpps://angular.io', 3)
+      new Article('Angular', 'Angular', 'https://angular.io', 3)
     ]
   );
 
